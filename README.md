@@ -78,10 +78,10 @@ Want to explore the UI or contribute to the frontend? It's simple to run locally
 2. **Navigate to the directory:**
 
 ```Bash
-cd LifeFlow
+    cd LifeFlow
 ```
 3. **Run the project:**
-*⚠️ **Note:**  Simply open `index.html` in your favorite web browser, or use the Live Server extension in VS Code for real-time reloading.*
+  *⚠️ **Note:**  Simply open `index.html` in your favorite web browser, or use the Live Server extension in VS Code for real-time reloading.*
 
 ---
 
