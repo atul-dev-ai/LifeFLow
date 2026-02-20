@@ -22,7 +22,7 @@ Add a screenshot of your current frontend design here to showcase the UI.
 
 | **Desktop View** | **Mobile View (App Style)** |
 |:---:|:---:|
-| <img src="dpreview.png" alt="Desktop UI" width="100%"> | <img src="mobileview.png" alt="Mobile UI" width="100%"> |
+| <img src="./assets/dpreview.png" alt="Desktop UI" width="100%"> | <img src="./assets/mobileview.png" alt="Mobile UI" width="100%"> |
 
 > *https://atul-dev-ai.github.io/LifeFLow*
 
